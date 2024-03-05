@@ -32,6 +32,13 @@ jobs:
         env:
           MARP_USER: root:root
   
+      - name: Build MARP HTML slides 🛝
+        uses: docker://marpteam/marp-cli:v1.7.0
+        with:
+          args: -I Slides/ -o build/Slides/ --html --allow-local-files --theme-set Slides/styles/
+        env:
+          MARP_USER: root:root
+  
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
