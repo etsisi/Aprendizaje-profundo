@@ -10,6 +10,7 @@ Se espera que este repositorio sea de utilidad para los estudiantes, no solo com
    1. Perceptrón simple y perceptrón multicapa ([`.ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/02.%20Perceptr%C3%B3n%20simple%20y%20perceptr%C3%B3n%20multicapa.ipynb))
    2. Métricas para problemas de clasificación y regresión ([`.ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/02.%20M%C3%A9tricas%20para%20problemas%20de%20clasificaci%C3%B3n%20y%20regresi%C3%B3n.ipynb))
 2. Redes neuronales artificiales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/02.%20Redes%20neuronales%20artificiales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/02.%20Redes%20neuronales%20artificiales.html))
+3. Redes neuronales convolucionales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.html))
 
 ## Licencia
 
