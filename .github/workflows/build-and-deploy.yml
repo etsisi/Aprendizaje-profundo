@@ -38,7 +38,11 @@ jobs:
           args: -I Slides/ -o build/Slides/ --html --allow-local-files --theme-set Slides/styles/
         env:
           MARP_USER: root:root
-  
+
+      - name: Deploy web page 🌐
+        run: mkdir -p build && cp -R index.html build
+    
+    
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
