@@ -14,6 +14,10 @@ Se espera que este repositorio sea de utilidad para los estudiantes, no solo com
 3. Redes neuronales convolucionales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.html))
    1. Clasificación de dígitos con redes convolucionales ([`.ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/03.%20Clasificación%20de%20dígitos%20con%20redes%20convolucionales.ipynb))
 
+## Lecturas recomendadas
+
+1. Deep Learning (Goodfellow et al 2016) [`html`](https://www.deeplearningbook.org/)
+
 ## Licencia
 
 Todo el material que aquí se encuentra está bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) salvo el código fuente, que está bajo la licencia [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
