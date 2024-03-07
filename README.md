@@ -14,6 +14,12 @@ Se espera que este repositorio sea de utilidad para los estudiantes, no solo com
 3. Redes neuronales convolucionales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.html))
    1. Clasificación de dígitos con redes convolucionales ([`.ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/03.%20Clasificación%20de%20dígitos%20con%20redes%20convolucionales.ipynb))
 4. Redes recurrentes ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/04.%20Redes%20recurrentes.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/04.%20Redes%20recurrentes.html))
+   1. Un poco de series temporales ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/%20Un%20poco%20de%20series%20temporales.ipynb))
+   2. Implementando redes recurrentes simples ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Implementando%20redes%20recurrentes%20simples.ipynb))
+   3. Apilando redes recurrentes ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Apilando%20redes%20recurrentes.ipynb))
+   4. A ver si nos hacemos ricos ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/A%20ver%20si%20nos%20hacemos%20ricos.ipynb))
+   5. A ver si nos hacemos ricos (LSTM edition) ([`ipynb`](https://etsisi.github.io/A%20ver%20si%20nos%20hacemos%20ricos%20(LSTM%20edition).ipynb))
+   6. Generación de música ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Generación%20de%20música.ipynb))
 
 ## Licencia
 
