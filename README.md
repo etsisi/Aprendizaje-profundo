@@ -13,6 +13,7 @@ Se espera que este repositorio sea de utilidad para los estudiantes, no solo com
 2. Redes neuronales artificiales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/02.%20Redes%20neuronales%20artificiales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/02.%20Redes%20neuronales%20artificiales.html))
 3. Redes neuronales convolucionales ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/03.%20Redes%20convolucionales.html))
    1. Clasificación de dígitos con redes convolucionales ([`.ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/03.%20Clasificación%20de%20dígitos%20con%20redes%20convolucionales.ipynb))
+4. Redes recurrentes ([`.pdf`](https://etsisi.github.io/Aprendizaje-profundo/Slides/04.%20Redes%20recurrentes.pdf), [`.html`](https://etsisi.github.io/Aprendizaje-profundo/Slides/04.%20Redes%20recurrentes.html))
 
 ## Licencia
 
