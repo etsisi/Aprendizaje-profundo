@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Aprendizaje profundo"
+version = "0.1.0"
+description = ""
+authors = ["Alberto Díaz <alberto.diaz@upm.es>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+tensorflow = "^2.15.0.post1"
+jupyter = "^1.0.0"
+matplotlib = "^3.8.3"
+statsmodels = "^0.14.1"
+pandas = "^2.2.1"
+scikit-learn = "^1.4.1.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
