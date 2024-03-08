@@ -1,2 +1,3 @@
 - Intentar que todos los notebooks que crean directorios lo hagan en el temporal por defecto de cada sistema operativo.
 - Intentar quitarnos de los datasets de la carpeta de datos en favor de aquellos que estén disponibles a través de API o que se puedan descargar directamente.
+- Añadir los notebooks de `Clasificación y localización de objetos.ipynb` y `Detención de objetos con YOLOv8.ipynb` a las traspas de opject detection (cuando estén hechas).
