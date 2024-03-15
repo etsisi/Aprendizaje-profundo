@@ -20,6 +20,11 @@ Se espera que este repositorio sea de utilidad para los estudiantes, no solo com
    4. A ver si nos hacemos ricos ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/A%20ver%20si%20nos%20hacemos%20ricos.ipynb))
    5. A ver si nos hacemos ricos (LSTM edition) ([`ipynb`](https://etsisi.github.io/A%20ver%20si%20nos%20hacemos%20ricos%20(LSTM%20edition).ipynb))
    6. Generación de música ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Generación%20de%20música.ipynb))
+5. Procesamiento del lenguaje natural
+   1. Clasificación de texto con CNN ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Procesamiento%20del%20lenguaje%20natural%20-%20Clasificación%20de%20texto%20con%20CNN.ipynb))
+   2. Clasificación de texto con RNN ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Procesamiento%20del%20lenguaje%20natural%20-%20Clasificación%20de%20texto%20con%20RNN.ipynb))
+   3. Creación y visualización de _embeddings_ ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Procesamiento%20del%20lenguaje%20natural%20-%20Creación%20y%20visualización%20de%20embeddings.ipynb))
+   4. Implementación de word2vec basado en _skip-grams_ ([`ipynb`](https://etsisi.github.io/Aprendizaje-profundo/Notebooks/Procesamiento%20del%20lenguaje%20natural%20-%20Implementación%20de%20word2vec%20basado%20en%20skip-grams.ipynb))
 
 ## Lecturas recomendadas
 
